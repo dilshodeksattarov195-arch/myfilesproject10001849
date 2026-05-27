@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuync",
+        "uuid": 2721728,
+        "checksum": "ufu4oqg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
